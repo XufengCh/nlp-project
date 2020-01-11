@@ -1,2 +1,6 @@
 .idea/
 *.pyc
+logs/
+__pycache__/
+training_checkpoints*/
+word2vec/wiki/
